@@ -29,7 +29,7 @@ define( 'DB_USER', 'lofri_ad_24' );
 define( 'DB_PASSWORD', 'eKu49k[,669#' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'lofri.es' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
